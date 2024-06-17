@@ -1,0 +1,221 @@
+<html>
+    <head>
+        <title>
+            LANDING PAGE
+        </title>
+        <style>
+            
+            .top{
+               display: flex;
+               background-color: rgba(255, 192, 203, 0.264);
+            }
+            .menu{
+                margin-left:600px;
+                margin-top:20px;
+                
+            }
+            .btn1{
+                border: 0px;
+                padding: 13px;
+                background-color: rgba(255, 192, 203, 0);
+                cursor:pointer;
+            }
+            .btn2{
+                width:140px;
+                padding: 6px;
+                background-color:rgba(0, 0, 255, 0.305);
+                border:1px solid rgba(0, 0, 255, 0.523);
+                border-radius:10px;
+                cursor:pointer;
+            }
+            .head{
+                background-color: rgba(0, 0, 255, 0.653);
+                height:100px;
+                text-align: center;
+               justify-content:center;
+               padding: 20px;
+               color:white;
+            }
+            .two{
+                display:flex;
+                background-color: rgba(137, 43, 226, 0.268);
+                margin-top: 10px;
+                height: 390px;
+                
+            }
+            .two:hover{
+                background-color: rgb(126, 255, 56);
+            }
+            .booking img{
+                border-radius: 50%;
+            }
+            .booking{
+                margin-left:230px;
+                margin-top:40px;
+                margin-right:20px;
+            }
+            .text{
+                margin-top:20px;
+                margin-left:40px;
+                width:1170px;
+            }
+            .three{
+                display:flex;
+                margin-top:20px;
+                height: 390px;
+            }
+            .three:hover{
+                background-color: rgb(126, 255, 56);
+            }
+            .tetx{
+                margin-left:200px;
+            }
+            .alert img{
+                border-radius:50%;
+                
+                
+            }
+            .alert{
+              margin-left:10px;
+              margin-top: 40px;
+            }
+            .four{
+                display:flex;
+                margin-top:20px;
+                background-color: rgba(165, 42, 42, 0.383) ;
+                height: 350px;
+            }
+            .four:hover{
+                background-color: rgb(53, 107, 182);
+            }
+            .track{
+                margin-left:160px;
+                margin-right:20px;
+                margin-top:20px;
+            }
+            .track img{
+                 border-radius:50%;
+            }
+            .content{
+                margin-left:20px;
+                margin-top:20px;
+            }
+            .final{
+                display:flex;
+                margin-left:190px;
+                margin-top:20px;
+            }
+            
+            .new{
+                margin-left:60px;
+                
+            }
+            .part{
+                margin-left:60px;
+            }
+            .links{
+                margin-left: 500px;
+            }
+            button{
+                padding:7px;
+                background-color: rgb(157, 247, 31);
+                border:2px solid rgb(0, 0, 0);
+                border-radius:5px;
+                color:rgb(10, 27, 224);
+                cursor:pointer;
+            }
+        </style>
+    </head>
+        <body>
+            <div class="top">
+            <div class="logo">
+                <img src="https://tse2.mm.bing.net/th/id/OIP.nKbCfTPBZuSWlP514j-dqwHaJ4?w=132&h=180&c=7&r=0&o=5&dpr=1.6&pid=1.7" border-radius="50%" height="200px">
+            </div>
+            <div class="menu">
+                
+                   <button class="btn1">Features</button> 
+                   <button class="btn1">Pricing</button> 
+                   <button class="btn1">Login</button> 
+                   <button class="btn2">Signup For Free</button> 
+                
+            </div>
+            </div>
+            <div class="head">
+                <h1>"An easiar trip, every time" </h1>
+            </div>
+
+           <div class="main">
+            <div class="two">
+                <div class="text">
+                <h1>you handle the boooking,we'll take it from there</h1><br>
+                <br>
+                <button>LEARN HOW IT WORKS </button>
+                </div>
+                <div class="booking">
+                    <img src="https://tse4.mm.bing.net/th/id/OIP.tOy3aSUBPaTlJlwwUshtXgHaFV?w=254&h=183&c=7&r=0&o=5&dpr=1.6&pid=1.7">
+                </div>
+            </div>
+
+           <div class="three">
+            <div class="alert">
+                <img src="https://tse4.mm.bing.net/th/id/OIP.T-MMcJCEpoF35wloir3bIQHaER?w=260&h=180&c=7&r=0&o=5&dpr=1.6&pid=1.7">
+            </div>
+            <div class="tetx">
+            <h1>Helpful reminders/alerts so you never miss a beat</h1>
+            <br>
+            <br>
+            <button>MORE ABOUT PRO</button>
+            </div>
+           </div>
+
+           <div class="four">
+           <div class="content">
+            <h1>Always Know Where To be and When</h1>
+            <br>
+            <br>
+            <button>DOWNLOAD THE APP</button>
+           </div>
+           <div class="track">
+            <img src="https://tse3.mm.bing.net/th/id/OIP.ahs3h-O0qUf-qphCP2ERVAHaE8?w=273&h=182&c=7&r=0&o=5&dpr=1.6&pid=1.7">
+           </div>
+
+           </div>
+           </div>
+           <div class="final">
+                    <div class="pro">
+                        <h1>PRODUCTS</h1>
+                     <h4>Download App </h4>
+                     <h4>Travel Buddy</h4>
+                     <h4>Travel Buddy Pro</h4> 
+                     <h4>Travel Buddy For Teams</h4>
+                     <h4>Help center</h4>
+                    </div>
+
+                    <div class="new">
+                        <h1>NEWS&RESOURCES</h1>
+                        <h4>Blog </h4>
+                        <h4>Press</h4>
+                        <h4>Jobs</h4> 
+                        <h4>User Aggrement</h4>
+                        <h4>Privacy Policy</h4>
+                        <h4>Security</h4>
+                        <h4>Cookie Preference</h4>
+
+                    </div>
+
+                    <div class="part">
+                        <h1>PARTNERS</h1>
+                        <h4>Developer Api </h4>
+                        <h4>Supported Booking Sites</h4>
+                    </div>
+           </div>
+           <hr><hr>
+           <div class="links">
+           <img src="https://tse2.mm.bing.net/th?q=LinkedIn+Icon+Transparent+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.6&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247" height="40px">
+           <img src="https://tse3.mm.bing.net/th/id/OIP.xX9pOhBaGjR9HwF6Jaw_dQHaHa?w=199&h=199&c=7&r=0&o=5&dpr=1.6&pid=1.7" height="40px">
+           <img src="https://tse1.mm.bing.net/th?q=Facebook+Icon+Jpg&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.6&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247" height="40px">
+           </div>
+           <h3 style="margin-left:380px;">@2023-2024 Travel Buddy.All Rights Reserved</h3>
+        </body>
+   
+</html>
